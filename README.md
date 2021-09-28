@@ -1,3 +1,3 @@
 # Informações sobre mineracao
 
-- [https://whattomine.com/] WhattoMine
+- (https://whattomine.com/ "WhattoMine")
