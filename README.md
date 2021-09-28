@@ -1,1 +1,3 @@
-# mineracao_data
+# Informações sobre mineracao
+
+- [https://whattomine.com/] WhattoMine
