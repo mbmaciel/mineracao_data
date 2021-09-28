@@ -5,6 +5,7 @@
 - https://whattomine.com/ WhattoMine
 - https://www.nicehash.com Nice Cash
 - https://www.nicehash.com/profitability-calculator Calculadora de Lucro NiceCash
+- https://2miners.com/pt Pool de mineração
 
 ## Videos
 - https://www.youtube.com/watch?v=yxw06tOg6CE Ainda vale a pena
