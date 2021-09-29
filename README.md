@@ -13,6 +13,7 @@
 - https://www.youtube.com/watch?v=Zkt655iK5Q0 Nice Cash
 - https://www.youtube.com/watch?v=7wuRIrfWlt4 Mineradora RaspPI
 - https://www.youtube.com/watch?v=cHaCGcfnoHU Mini Rig de Mineração
+- https://www.youtube.com/watch?v=aaGjNfWMEq4 Como user Hive OS
 
 ## Docs Importantes
 - https://bit.ly/3xFmV7w Planilha
