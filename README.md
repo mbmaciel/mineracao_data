@@ -26,9 +26,10 @@
 - https://coinmarketcap.com/pt-br/currencies/plantvsundead/ Cotação PVU 
 
 ## Jogos
-https://marketplace.axieinfinity.com/axie Market place do axie infinity
-https://marketplace.plantvsundead.com/farm#/farm Plants vs Undead Market place
-https://plantvsundead.com/ Plants vs Undead
+- https://fishytank.io/  Fishy Tank
+- https://marketplace.axieinfinity.com/axie Market place do axie infinity
+- https://marketplace.plantvsundead.com/farm#/farm Plants vs Undead Market place
+- https://plantvsundead.com/ Plants vs Undead
 
 ## Videos
 https://www.youtube.com/watch?v=KjHB0BnikH4 Plants vs Undead
